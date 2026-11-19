@@ -11,3 +11,7 @@ htmlcov/
 !.env.example
 .idea/
 .vscode/
+
+# Fichiers temporaires Java / JVM
+hs_err_pid*.log
+replay_pid*.log
